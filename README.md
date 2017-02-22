@@ -13,3 +13,5 @@ Clone the repository and build the omod
 ## Deploy
 
 Copy ```bahmni-core/bahmnicore-omod/target/bahmnicore-omod-VERSION-SNAPSHOT.omod``` into OpenMRS modules directory and restart OpenMRS
+
+{<img src="https://coveralls.io/repos/github/deepaucksharma/bahmni-core/badge.svg?branch=master" alt="Coverage Status" />}[https://coveralls.io/github/deepaucksharma/bahmni-core?branch=master]
